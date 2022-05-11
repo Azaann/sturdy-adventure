@@ -1,5 +1,4 @@
-NAAM: JONATHAN JOHANNES CASTRO
-STUDENT NUMMER : 2083462
+
 
 Taak 1: Kopieer de statements van bestand "statements.sql" en plak deze in de mysql database. Verander eventueel de database naam. Dit zorgt ervoor dat er test data komt in de database.
 
